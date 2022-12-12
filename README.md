@@ -1,3 +1,5 @@
 # django_app
 
-with aws
+### run server
+
+- `python manage.py runserver`
